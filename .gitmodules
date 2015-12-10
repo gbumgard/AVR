@@ -1,0 +1,3 @@
+[submodule "TouchSensor"]
+	path = TouchSensor
+	url = https://github.com/gbumgard/TouchSensor
