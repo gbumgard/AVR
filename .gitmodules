@@ -1,3 +1,3 @@
-[submodule "TouchSensor"]
-	path = TouchSensor
-	url = https://github.com/gbumgard/TouchSensor
+[submodule "ProximitySensor"]
+	path = ProximitySensor
+	url = https://github.com/gbumgard/ProximitySensor
